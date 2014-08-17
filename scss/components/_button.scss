@@ -1,0 +1,5 @@
+@import "foundation/components/buttons";
+
+.my-button--primary {
+    @include button;
+}
